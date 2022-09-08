@@ -1,13 +1,13 @@
-package com.example.ceva;
+package com.ceva;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CevaApplication {
+public class ControllerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CevaApplication.class, args);
+        SpringApplication.run(ControllerApplication.class, args);
     }
 
 }
