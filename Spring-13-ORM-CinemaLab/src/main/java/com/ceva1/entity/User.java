@@ -1,4 +1,4 @@
-package com.ceva1.entity;
+package com.ceva.entity;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

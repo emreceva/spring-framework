@@ -1,4 +1,4 @@
-package com.ceva1;
+package com.ceva;
 
 import org.flywaydb.core.Flyway;
 import org.flywaydb.core.api.output.MigrateResult;

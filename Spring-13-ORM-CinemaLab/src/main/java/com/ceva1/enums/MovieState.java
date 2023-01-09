@@ -1,4 +1,4 @@
-package com.ceva1.enums;
+package com.ceva.enums;
 
 public enum MovieState {
     ACTIVE,DRAFT,SUSPENDED;

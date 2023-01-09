@@ -1,6 +1,6 @@
-package com.ceva1.entity;
+package com.ceva.entity;
 
-import com.ceva1.enums.UserRole;
+import com.ceva.enums.UserRole;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

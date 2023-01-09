@@ -1,6 +1,6 @@
-package com.ceva1.bootstrap;
+package com.ceva.bootstrap;
 
-import com.ceva1.repository.AccountRepository;
+import com.ceva.repository.AccountRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
