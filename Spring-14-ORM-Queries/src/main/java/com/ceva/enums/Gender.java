@@ -1,4 +1,4 @@
-package com.cydeo.enums;
+package com.ceva.enums;
 
 public enum Gender {
     M,F

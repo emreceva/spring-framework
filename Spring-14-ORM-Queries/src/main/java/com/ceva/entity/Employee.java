@@ -1,6 +1,6 @@
-package com.cydeo.entity;
+package com.ceva.entity;
 
-import com.cydeo.enums.Gender;
+import com.ceva.enums.Gender;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
