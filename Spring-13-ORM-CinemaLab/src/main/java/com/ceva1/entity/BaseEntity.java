@@ -1,4 +1,4 @@
-package com.ceva1.entity;
+package com.ceva.entity;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;

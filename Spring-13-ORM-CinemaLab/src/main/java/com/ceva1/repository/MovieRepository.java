@@ -1,6 +1,6 @@
-package com.ceva1.repository;
+package com.ceva.repository;
 
-import com.ceva1.entity.Movie;
+import com.ceva.entity.Movie;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface MovieRepository extends JpaRepository<Movie, Long> {

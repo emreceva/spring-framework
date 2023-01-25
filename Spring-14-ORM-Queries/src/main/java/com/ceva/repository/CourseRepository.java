@@ -1,6 +1,6 @@
-package com.cydeo.repository;
+package com.ceva.repository;
 
-import com.cydeo.entity.Course;
+import com.ceva.entity.Course;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

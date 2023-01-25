@@ -1,9 +1,9 @@
-package com.cydeo.boostrap;
+package com.ceva.boostrap;
 
-import com.cydeo.repository.CourseRepository;
-import com.cydeo.repository.DepartmentRepository;
-import com.cydeo.repository.EmployeeRepository;
-import com.cydeo.repository.RegionRepository;
+import com.ceva.repository.CourseRepository;
+import com.ceva.repository.DepartmentRepository;
+import com.ceva.repository.EmployeeRepository;
+import com.ceva.repository.RegionRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,6 +1,6 @@
-package com.cydeo.repository;
+package com.ceva.repository;
 
-import com.cydeo.entity.Region;
+import com.ceva.entity.Region;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

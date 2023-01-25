@@ -1,7 +1,7 @@
-package com.ceva1.entity;
+package com.ceva.entity;
 
-import com.ceva1.enums.MovieState;
-import com.ceva1.enums.MovieType;
+import com.ceva.enums.MovieState;
+import com.ceva.enums.MovieType;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 

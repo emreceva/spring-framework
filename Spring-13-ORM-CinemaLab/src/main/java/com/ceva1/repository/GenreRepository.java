@@ -1,6 +1,6 @@
-package com.ceva1.repository;
+package com.ceva.repository;
 
-import com.ceva1.entity.Genre;
+import com.ceva.entity.Genre;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
